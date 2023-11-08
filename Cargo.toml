@@ -1,0 +1,12 @@
+[package]
+name = "ic_db"
+version = "0.0.0"
+authors = ["oxc0"]
+edition = "2023"
+license = "MIT"
+description = "Performs CRUD-enabled relational database operations on the canister of an Internet computer."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.19"
